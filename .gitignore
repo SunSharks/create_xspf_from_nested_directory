@@ -1,2 +1,6 @@
 *_pycache*
 pathfile.py
+*.xspf
+*.mp3
+*.mp4
+
